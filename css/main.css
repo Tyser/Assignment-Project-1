@@ -1,0 +1,75 @@
+/* HEADER */
+.jumbotron.styled {
+   background-color: rgba(0, 0, 0, 0.59);
+   margin-top: 80px;
+}
+.jumbotron h1 {
+   color: #fff;
+}
+.jumbotron {
+    color: #fff;
+}
+
+/* GLYPHICON EMAIL*/
+.btn {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.btn2  {
+   padding-top: 6px;
+   padding-left: 6px;
+   padding-right: 6px;
+   margin-bottom: 6px;
+}
+
+
+
+/* HEADER IMAGE */
+.image {
+    width: 50px;
+    height: 50px;
+}
+
+
+
+/* HEADER */
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+/* NAVIGATION */
+.nav {
+    margin-left: 109px;
+    padding-top: 15px;
+}
+.navbar-inverse {
+    padding: 10px;
+    width: 100%;
+}
+
+/* IMAGES */
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
